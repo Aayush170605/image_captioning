@@ -1,0 +1,14 @@
+# Core Machine Learning Framework (Python 3.13 compatible)
+tensorflow>=2.18.0
+
+# Data Processing and Array Manipulation
+numpy>=2.1.0
+
+# Image Processing
+Pillow>=11.0.0
+
+# Visualization
+matplotlib>=3.9.0
+
+# Progress Tracking
+tqdm>=4.66.0
