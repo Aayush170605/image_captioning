@@ -1,7 +1,7 @@
 # **Project: Vision-Language Synthesis (VLS-1)**
 ### *Neural Image Captioning via Xception-LSTM Architecture*
 
-This project implements a high-bandwidth machine vision system designed to bridge the gap between pixels and semantics. Rather than simple object detection, this system utilizes a dual-model architecture to understand scene context and generate natural language descriptions in real-time.
+This project implements a high-bandwidth machine vision system designed to bridge the gap between pixels and semantics. Rather than simple object detection, this system utilizes a dual-model architecture to understand scene context and generate natural language descriptions in real-time!
 
 
 
